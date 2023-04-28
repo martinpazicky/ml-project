@@ -1,0 +1,5 @@
+{
+  "Card_Category": ["Blue", "Silver", "Gold", "Platinum"],
+  "Income_Category": ["Less than $40K", "$40K - $60K", "$60K - $80K", "$80K - $120K", "$120K +"],
+  "Education_Level": ["Uneducated", "High School", "College", "Graduate", "Post-Graduate", "Doctorate"]
+}
