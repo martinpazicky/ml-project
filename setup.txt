@@ -1,0 +1,4 @@
+1. Install pip
+2. Install python (version 3.10 recommended)
+3. Open the project and install the required libraries using "pip install -r requirements.txt"
+4. Execute all the cells in the jupyter notebook file (.ipynb)
